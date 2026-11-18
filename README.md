@@ -4,8 +4,8 @@
 
 ## 받기
 
-- Android 1.0.14: [jr-subtitle-android-1.0.14.apk](https://github.com/HS2949/JR_subtitle-release/releases/download/v1.0.14/jr-subtitle-android-1.0.14.apk)
-- Windows 1.0.14: [jr-subtitle-windows-1.0.14.zip](https://github.com/HS2949/JR_subtitle-release/releases/download/v1.0.14/jr-subtitle-windows-1.0.14.zip)
+- Android 1.0.17: [jr-subtitle-android-1.0.17.apk](https://github.com/HS2949/JR_subtitle-release/releases/download/v1.0.17/jr-subtitle-android-1.0.17.apk)
+- Windows 1.0.17: [jr-subtitle-windows-1.0.17.zip](https://github.com/HS2949/JR_subtitle-release/releases/download/v1.0.17/jr-subtitle-windows-1.0.17.zip)
 
 ## 설치
 
